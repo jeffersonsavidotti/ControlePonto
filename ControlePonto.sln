@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlePonto", "ControlePonto.csproj", "{670E90E1-E4EA-4D07-BBDD-448FCFA91361}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{40F824FD-5DC1-4A30-B91E-5CE1A5000F3E}"
+	ProjectSection(SolutionItems) = preProject
+		Consultor.cs = Consultor.cs
+		ControleDePonto.cs = ControleDePonto.cs
+		Funcionario.cs = Funcionario.cs
+		Gerente.cs = Gerente.cs
+		ImprimirComprovante.cs = ImprimirComprovante.cs
+		Vendedor.cs = Vendedor.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670E90E1-E4EA-4D07-BBDD-448FCFA91361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670E90E1-E4EA-4D07-BBDD-448FCFA91361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670E90E1-E4EA-4D07-BBDD-448FCFA91361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670E90E1-E4EA-4D07-BBDD-448FCFA91361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A9A9B90-9DE6-4BD0-BA1A-9EE601FAB1F7}
+	EndGlobalSection
+EndGlobal
